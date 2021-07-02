@@ -1,0 +1,26 @@
+
+h1 {color:rgb(247, 247, 247); 
+border:rgb(247, 247, 247);
+ /*background-color:rgb(197, 91, 106)*/
+}
+body{background-color: #ffddeeaa}
+*{ 
+
+color:black
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Origami{
+   border-right:right;
+    border-radius:20px;
+    background-color:rgb(212, 115, 86);
+    width:300px;
+    border-top-right-radius:200px;
+    font-family: fantasy;
+}
+
+  
